@@ -19,13 +19,6 @@ KMeans is a clustering algorithm which divides a dataset into k clusters, where 
 In this project we will group similar observations together(in k clusters) and discover underlying patterns.
 
 
-
-
-
-## Screenshot
-![App Screenshot](https://images.app.goo.gl/YKkMGLJtngEkPiUUA)
-
-
 ## Authors
 
 - [@Priyanka0606](https://github.com/Priyanka0606)
